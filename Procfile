@@ -1,1 +1,1 @@
-web: python BookmarkServer.py
+web: gunincorn hello:app --log-file - 
